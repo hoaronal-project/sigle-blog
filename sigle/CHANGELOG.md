@@ -1,5 +1,21 @@
 # @sigle/app
 
+## 1.4.0
+
+### Minor Changes
+
+- 696ef4f: Display The Explorer Guild creator + badge on the profile page of a user.
+- c004528: Add social following system, you can follow other users and see their posts in your feed.
+- f17096d: Add explore page to discover writers using the platform.
+- 4320ab3: Add RSS auto-discovery for all the blogs. So browser and RSS readers can automatically find the RSS feed of the blog.
+
+### Patch Changes
+
+- e2a7843: Upgrade radix packages to v1.
+- 0d1ae50: Fix profile image not centered on profile page.
+- 074786f: Add infinite loading to explore page.
+- 41c1a3f: Generate openapi typescript client for type safe calls to the Sigle api.
+
 ## 1.3.0
 
 ### Minor Changes
